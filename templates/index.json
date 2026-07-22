@@ -16,7 +16,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>Crafted with breathable linen-blend fabrics, superior <br/>finishing, and timeless style.</p>",
+            "text": "<p>Style that feels as good as it looks</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
