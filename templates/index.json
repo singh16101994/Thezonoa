@@ -65,9 +65,9 @@
       "name": "t:names.hero",
       "settings": {
         "media_type_1": "image",
-        "image_1": "shopify://shop_images/mahdi-bafande-npyWFYpHQ94-unsplash.jpg",
+        "image_1": "shopify://shop_images/Banner1.png",
         "media_type_2": "image",
-        "image_2": "shopify://shop_images/bailey-alexander-3q4qngO_M3Q-unsplash.jpg",
+        "image_2": "shopify://shop_images/Banner2.png",
         "stack_media_on_mobile": false,
         "custom_mobile_media": false,
         "media_type_1_mobile": "image",
@@ -121,7 +121,7 @@
             "background_color": "",
             "video_position": "cover",
             "background_image_position": "cover",
-            "toggle_overlay": true,
+            "toggle_overlay": false,
             "overlay_color": "#12121266",
             "overlay_style": "solid",
             "gradient_direction": "to top",
@@ -183,7 +183,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p><em>Introducing</em></p>",
+                    "text": "<p><strong>Tailored Collection</strong></p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -209,7 +209,7 @@
                   "type": "text",
                   "name": "t:names.heading",
                   "settings": {
-                    "text": "<h2>SUMMAR '26'</h2>",
+                    "text": "<p><strong>Signature Shirts</strong></p>",
                     "width": "100%",
                     "max_width": "normal",
                     "alignment": "left",
@@ -269,7 +269,7 @@
       "name": "t:names.hero_bottom_aligned",
       "settings": {
         "media_type_1": "image",
-        "image_1": "shopify://shop_images/vytenis-malisauskas-sOWnFcGutRw-unsplash.jpg",
+        "image_1": "shopify://shop_images/Men_s_Group.png",
         "media_type_2": "image",
         "stack_media_on_mobile": false,
         "custom_mobile_media": false,
@@ -358,7 +358,7 @@
             "text_PEwrED": {
               "type": "text",
               "settings": {
-                "text": "<h3>New arrivals</h3>",
+                "text": "<h3>Everyday Essentials</h3>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "center",
@@ -461,7 +461,7 @@
             "text_3fhGJf": {
               "type": "text",
               "settings": {
-                "text": "<h3>Bestsellers</h3>",
+                "text": "<h3>Modern Fits</h3>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "center",
