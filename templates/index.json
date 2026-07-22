@@ -16,7 +16,7 @@
           "type": "text",
           "name": "t:names.heading",
           "settings": {
-            "text": "<h1><strong>Premium Menswear for Every Occasion</strong></h1><p>Crafted with breathable linen-blend fabrics, superior finishing, and timeless style.</p>",
+            "text": "<h1><strong>Monsoon</strong></h1>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
