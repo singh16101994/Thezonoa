@@ -58,7 +58,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<p><strong>Follow us</strong></p>",
+                "text": "<p><strong>Follow Us</strong></p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
@@ -84,7 +84,7 @@
               "type": "text",
               "name": "t:names.description",
               "settings": {
-                "text": "<p>We create with intention. Our products solve real problems with clean design and honest materials.</p>",
+                "text": "<p>Stay updated with our latest collections, style inspiration, and exclusive launches.</p>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
@@ -310,7 +310,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h4>Join our email list</h4>",
+                "text": "<h4>Join the Zonoa Community</h4>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -336,7 +336,7 @@
               "type": "text",
               "name": "t:names.text",
               "settings": {
-                "text": "<p>Get exclusive deals and early access to new products.<br/><br/></p>",
+                "text": "<p>Be the first to discover new arrivals, and member-only offers.</p>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
