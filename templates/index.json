@@ -384,7 +384,7 @@
             "text_PEwrED": {
               "type": "text",
               "settings": {
-                "text": "<h3>Everyday Essentials</h3>",
+                "text": "<h3>Linen Collection</h3>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "center",
@@ -487,7 +487,7 @@
             "text_3fhGJf": {
               "type": "text",
               "settings": {
-                "text": "<h3>Modern Fits</h3>",
+                "text": "<h3>Flannel Shirts</h3>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "center",
