@@ -16,7 +16,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>Crafted with breathable linen-blend fabrics, superior finishing, and timeless style.<br/><br/></p>",
+            "text": "<p>Crafted with breathable linen-blend fabrics, superior <br/>finishing, and timeless style.<br/><br/></p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
