@@ -612,7 +612,7 @@
         "background_media": "image",
         "background_color": "",
         "video_position": "cover",
-        "background_image": "shopify://shop_images/immo-wegmann-a4k6Rlc8rtQ-unsplash.jpg",
+        "background_image": "shopify://shop_images/Large_Logo.png",
         "background_image_position": "cover",
         "toggle_overlay": false,
         "overlay_color": "#00000026",
@@ -632,7 +632,7 @@
       "name": "Animated Text",
       "settings": {
         "heading": "thezonoa",
-        "bg_image": "shopify://shop_images/immo-wegmann-a4k6Rlc8rtQ-unsplash.jpg",
+        "bg_image": "shopify://shop_images/Large_Logo.png",
         "bg_color": "#1a1915",
         "overlay_opacity": 45,
         "text_color": "#ffffff",
