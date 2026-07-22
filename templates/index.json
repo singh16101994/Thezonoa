@@ -147,7 +147,7 @@
                 "horizontal_alignment": "flex-start",
                 "vertical_alignment": "center",
                 "align_baseline": false,
-                "horizontal_alignment_flex_direction_column": "flex-start",
+                "horizontal_alignment_flex_direction_column": "center",
                 "vertical_alignment_flex_direction_column": "flex-start",
                 "gap": 20,
                 "width": "custom",
@@ -242,7 +242,7 @@
                     "custom_button_text": "{{ settings.color_palette.background }}",
                     "custom_button_border": "{{ settings.color_palette.background }}",
                     "link_text_color": "#ffffff",
-                    "width": "custom",
+                    "width": "fit-content",
                     "custom_width": 100,
                     "width_mobile": "fit-content",
                     "custom_width_mobile": 100
