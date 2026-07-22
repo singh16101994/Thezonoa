@@ -16,7 +16,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p>Crafted with breathable linen-blend fabrics, superior <br/>finishing, and timeless style.<br/><br/></p>",
+            "text": "<p>Crafted with breathable linen-blend fabrics, superior <br/>finishing, and timeless style.</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -119,7 +119,7 @@
         "blurred_reflection": false,
         "reflection_opacity": 75,
         "padding-block-start": 0,
-        "padding-block-end": 72
+        "padding-block-end": 75
       }
     },
     "hero_kAF8YK": {
