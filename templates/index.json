@@ -546,7 +546,7 @@
       "type": "animated-text",
       "name": "Animated Text",
       "settings": {
-        "heading": "thezonoa",
+        "heading": "Thezonoa",
         "bg_image": "shopify://shop_images/Large_Logo.png",
         "bg_color": "#1a1915",
         "overlay_opacity": 45,
