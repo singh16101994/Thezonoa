@@ -327,6 +327,63 @@
         "padding-block-end": 0
       }
     },
+    "product_tabs_9RELWE": {
+      "type": "product-tabs",
+      "blocks": {
+        "tab_RUdBWr": {
+          "type": "tab",
+          "settings": {
+            "title": "Product Description",
+            "source": "metafield",
+            "richtext": "",
+            "namespace": "custom",
+            "key": "description",
+            "page": ""
+          }
+        },
+        "tab_9izTKg": {
+          "type": "tab",
+          "settings": {
+            "title": "Fabric & Wash Care",
+            "source": "metafield",
+            "richtext": "",
+            "namespace": "custom",
+            "key": "wash_care",
+            "page": ""
+          }
+        },
+        "tab_t7GRzq": {
+          "type": "tab",
+          "settings": {
+            "title": "Shipping",
+            "source": "metafield",
+            "richtext": "",
+            "namespace": "custom",
+            "key": "shipping",
+            "page": ""
+          }
+        },
+        "tab_qxPx8p": {
+          "type": "tab",
+          "settings": {
+            "title": "Return & Exchange",
+            "source": "metafield",
+            "richtext": "",
+            "namespace": "custom",
+            "key": "return_and_exchange",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "tab_RUdBWr",
+        "tab_9izTKg",
+        "tab_t7GRzq",
+        "tab_qxPx8p"
+      ],
+      "name": "Product tabs",
+      "settings": {}
+    },
     "product_recommendations_qggXJq": {
       "type": "product-recommendations",
       "blocks": {
@@ -468,63 +525,6 @@
         "padding-block-start": 48,
         "padding-block-end": 48
       }
-    },
-    "product_tabs_9RELWE": {
-      "type": "product-tabs",
-      "blocks": {
-        "tab_RUdBWr": {
-          "type": "tab",
-          "settings": {
-            "title": "Product Description",
-            "source": "metafield",
-            "richtext": "",
-            "namespace": "custom",
-            "key": "description",
-            "page": ""
-          }
-        },
-        "tab_9izTKg": {
-          "type": "tab",
-          "settings": {
-            "title": "Fabric & Wash Care",
-            "source": "metafield",
-            "richtext": "",
-            "namespace": "custom",
-            "key": "wash_care",
-            "page": ""
-          }
-        },
-        "tab_t7GRzq": {
-          "type": "tab",
-          "settings": {
-            "title": "Shipping",
-            "source": "metafield",
-            "richtext": "",
-            "namespace": "custom",
-            "key": "shipping",
-            "page": ""
-          }
-        },
-        "tab_qxPx8p": {
-          "type": "tab",
-          "settings": {
-            "title": "Return & Exchange",
-            "source": "description",
-            "richtext": "",
-            "namespace": "custom",
-            "key": "return_and_exchange",
-            "page": ""
-          }
-        }
-      },
-      "block_order": [
-        "tab_RUdBWr",
-        "tab_9izTKg",
-        "tab_t7GRzq",
-        "tab_qxPx8p"
-      ],
-      "name": "Product tabs",
-      "settings": {}
     }
   },
   "order": [
