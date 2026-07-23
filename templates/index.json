@@ -410,7 +410,7 @@
               "type": "button",
               "settings": {
                 "label": "Shop now",
-                "link": "shopify://collections/all",
+                "link": "shopify://collections/shirts",
                 "open_in_new_tab": false,
                 "style_class": "button-secondary",
                 "custom_button_background": "{{ settings.color_palette.foreground }}",
