@@ -70,7 +70,7 @@
             "custom_width_mobile": 100,
             "height": "fit",
             "details_position": "flex-start",
-            "gap": 28,
+            "gap": 27,
             "sticky_details_desktop": true,
             "background_media": "none",
             "background_color": "",
@@ -87,6 +87,10 @@
             "padding-inline-end": 0
           },
           "blocks": {
+            "judge_me_reviews_all_reviews_text_QT4mkT": {
+              "type": "shopify://apps/judge-me-reviews/blocks/all_reviews_text/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+              "settings": {}
+            },
             "judge_me_reviews_preview_badge_mMrHWd": {
               "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
               "settings": {}
@@ -308,6 +312,7 @@
             }
           },
           "block_order": [
+            "judge_me_reviews_all_reviews_text_QT4mkT",
             "judge_me_reviews_preview_badge_mMrHWd",
             "group_icgrde",
             "divider_VJhene",
