@@ -525,11 +525,57 @@
         "padding-block-start": 48,
         "padding-block-end": 48
       }
+    },
+    "1784830232ee402e40": {
+      "type": "_blocks",
+      "blocks": {
+        "wishlist_by_square_wishlist_button_cJxwzM": {
+          "type": "shopify://apps/wishlist-by-square/blocks/wishlist-button/88ec2beb-ce43-48ed-b791-0a6554082c2b",
+          "settings": {}
+        },
+        "wishlist_by_square_wishlist_header_MmzMiU": {
+          "type": "shopify://apps/wishlist-by-square/blocks/wishlist-header/88ec2beb-ce43-48ed-b791-0a6554082c2b",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "wishlist_by_square_wishlist_button_cJxwzM",
+        "wishlist_by_square_wishlist_header_MmzMiU"
+      ],
+      "settings": {
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 12,
+        "section_width": "page-width",
+        "section_height": "",
+        "section_height_custom": 50,
+        "background_media": "none",
+        "background_color": "",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_color": "",
+        "border_radius": 0,
+        "padding-block-start": 0,
+        "padding-block-end": 0
+      }
     }
   },
   "order": [
     "main",
     "product_tabs_9RELWE",
-    "product_recommendations_qggXJq"
+    "product_recommendations_qggXJq",
+    "1784830232ee402e40"
   ]
 }
