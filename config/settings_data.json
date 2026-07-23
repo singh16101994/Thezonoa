@@ -104,6 +104,13 @@
     "variant_button_radius": 14,
     "variant_button_width": "default-width-buttons",
     "content_for_index": [],
+    "blocks": {
+      "17370010407503379518": {
+        "type": "shopify://apps/wishlist-by-square/blocks/app-embed/88ec2beb-ce43-48ed-b791-0a6554082c2b",
+        "disabled": false,
+        "settings": {}
+      }
+    },
     "color_palette": {
       "background": "#FAFAF8",
       "foreground": "#1D1D1D",
