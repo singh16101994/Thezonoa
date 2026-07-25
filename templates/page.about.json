@@ -315,7 +315,7 @@
         "movement_direction": "normal",
         "background_color": "",
         "padding-block-start": 24,
-        "padding-block-end": 24,
+        "padding-block-end": 34,
         "gap_between_elements": 24
       }
     }
