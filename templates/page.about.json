@@ -94,6 +94,104 @@
         "padding-block-end": 40
       }
     },
+    "marquee_ppzcqk": {
+      "type": "marquee",
+      "blocks": {
+        "text_3YBH8k": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Where Style Meets Everyday Comfort</strong></p>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "custom",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "tight",
+            "letter_spacing": "tight",
+            "case": "none",
+            "wrap": "nowrap",
+            "text_color": "",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "text_KCi7QU": {
+          "type": "text",
+          "name": "t:names.heading",
+          "settings": {
+            "text": "<h2>The Zonoa</h2>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "text_color": "",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "text_3YBH8k",
+        "text_KCi7QU"
+      ],
+      "name": "t:names.marquee_section",
+      "settings": {
+        "movement_direction": "normal",
+        "background_color": "",
+        "padding-block-start": 24,
+        "padding-block-end": 34,
+        "gap_between_elements": 24
+      }
+    },
+    "about_us_THwA84": {
+      "type": "about-us",
+      "blocks": {
+        "value_bk3EJz": {
+          "type": "value",
+          "settings": {
+            "title": "We love what we do",
+            "text": "At Zonoa, our passion lies in creating modern menswear that fits seamlessly into everyday life. Every shirt and T-shirt is designed with a focus on comfort, clean design, and effortless style—made for men who value simplicity and confidence."
+          }
+        },
+        "value_e6fJ7L": {
+          "type": "value",
+          "settings": {
+            "title": "Our working process",
+            "text": "We work with skilled manufacturers and use carefully selected fabrics to ensure consistent quality and fit. From fabric selection to final finishing, every step is thoughtfully executed so each piece feels comfortable, looks sharp, and lasts beyond trends."
+          }
+        }
+      },
+      "block_order": [
+        "value_bk3EJz",
+        "value_e6fJ7L"
+      ],
+      "name": "About Us",
+      "settings": {
+        "subtitle": "Our working process",
+        "heading": "About Zonoa",
+        "description": "At Zonoa, every garment is thoughtfully designed with premium fabrics, timeless aesthetics, and exceptional craftsmanship. Our mission is to create clothing that makes you feel confident every day.",
+        "image": "shopify://shop_images/t-shirt-store.jpg"
+      }
+    },
     "section_xwDbhU": {
       "type": "section",
       "blocks": {
@@ -251,110 +349,12 @@
         "padding-block-start": 40,
         "padding-block-end": 40
       }
-    },
-    "marquee_ppzcqk": {
-      "type": "marquee",
-      "blocks": {
-        "text_3YBH8k": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Where Style Meets Everyday Comfort</strong></p>",
-            "width": "fit-content",
-            "max_width": "normal",
-            "alignment": "left",
-            "type_preset": "custom",
-            "font": "var(--font-body--family)",
-            "font_size": "1rem",
-            "line_height": "tight",
-            "letter_spacing": "tight",
-            "case": "none",
-            "wrap": "nowrap",
-            "text_color": "",
-            "background": false,
-            "background_color": "#00000026",
-            "corner_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        },
-        "text_KCi7QU": {
-          "type": "text",
-          "name": "t:names.heading",
-          "settings": {
-            "text": "<h2>The Zonoa</h2>",
-            "width": "fit-content",
-            "max_width": "normal",
-            "alignment": "left",
-            "type_preset": "rte",
-            "font": "var(--font-body--family)",
-            "font_size": "1rem",
-            "line_height": "normal",
-            "letter_spacing": "normal",
-            "case": "none",
-            "wrap": "pretty",
-            "text_color": "",
-            "background": false,
-            "background_color": "#00000026",
-            "corner_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "text_3YBH8k",
-        "text_KCi7QU"
-      ],
-      "name": "t:names.marquee_section",
-      "settings": {
-        "movement_direction": "normal",
-        "background_color": "",
-        "padding-block-start": 24,
-        "padding-block-end": 34,
-        "gap_between_elements": 24
-      }
-    },
-    "about_us_THwA84": {
-      "type": "about-us",
-      "blocks": {
-        "value_bk3EJz": {
-          "type": "value",
-          "settings": {
-            "title": "We love what we do",
-            "text": "At Zonoa, our passion lies in creating modern menswear that fits seamlessly into everyday life. Every shirt and T-shirt is designed with a focus on comfort, clean design, and effortless style—made for men who value simplicity and confidence."
-          }
-        },
-        "value_e6fJ7L": {
-          "type": "value",
-          "settings": {
-            "title": "Our working process",
-            "text": "We work with skilled manufacturers and use carefully selected fabrics to ensure consistent quality and fit. From fabric selection to final finishing, every step is thoughtfully executed so each piece feels comfortable, looks sharp, and lasts beyond trends."
-          }
-        }
-      },
-      "block_order": [
-        "value_bk3EJz",
-        "value_e6fJ7L"
-      ],
-      "name": "About Us",
-      "settings": {
-        "subtitle": "Our working process",
-        "heading": "About Zonoa",
-        "description": "At Zonoa, every garment is thoughtfully designed with premium fabrics, timeless aesthetics, and exceptional craftsmanship. Our mission is to create clothing that makes you feel confident every day.",
-        "image": "shopify://shop_images/t-shirt-store.jpg"
-      }
     }
   },
   "order": [
     "section_FKgLXF",
-    "section_xwDbhU",
     "marquee_ppzcqk",
-    "about_us_THwA84"
+    "about_us_THwA84",
+    "section_xwDbhU"
   ]
 }
