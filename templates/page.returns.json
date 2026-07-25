@@ -85,10 +85,10 @@
         "background_media": "image",
         "background_color": "{{ settings.color_palette.background }}",
         "video_position": "cover",
-        "background_image": "shopify://shop_images/Large_Logo.png",
+        "background_image": "shopify://shop_images/return-button.jpg",
         "background_image_position": "cover",
-        "toggle_overlay": false,
-        "overlay_color": "#00000026",
+        "toggle_overlay": true,
+        "overlay_color": "#00000073",
         "overlay_style": "solid",
         "gradient_direction": "to top",
         "border": "none",
@@ -96,8 +96,8 @@
         "border_opacity": 100,
         "border_color": "",
         "border_radius": 0,
-        "padding-block-start": 48,
-        "padding-block-end": 48
+        "padding-block-start": 100,
+        "padding-block-end": 100
       }
     },
     "section_fJWttF": {
@@ -162,73 +162,10 @@
         "padding-block-start": 48,
         "padding-block-end": 48
       }
-    },
-    "section_dPPLEc": {
-      "type": "section",
-      "blocks": {
-        "text_RN8DXJ": {
-          "type": "text",
-          "settings": {
-            "text": "<p>At <strong>Zonoa</strong>, every piece is designed with care and attention to detail. We hope you love your purchase. However, if you’re not completely satisfied, we’re here to assist you.</p><h3>Returns</h3><ul><li>Returns are accepted within <strong>7 days of delivery</strong>.</li><li>Items must be <strong>unused, unworn, unwashed</strong>, and returned in their <strong>original packaging with tags intact</strong>.</li><li>Once the returned item is inspected and approved, a <strong>store credit or exchange</strong> will be issued.</li><li><strong>Cash refunds are not currently offered.</strong></li></ul><h3>Exchanges</h3><ul><li>Exchanges are subject to <strong>product and size availability</strong>.</li><li>If the requested item is unavailable, you may choose:Another product of <strong>equal value</strong>, or<strong>Store credit</strong> for future purchases.</li></ul><h3>Non-Returnable Items</h3><p>For hygiene and operational reasons, the following items are <strong>not eligible for return or exchange</strong>:</p><ul><li>Products purchased during <strong>sales or promotional discounts</strong></li><li>Any <strong>customized or altered items</strong> (if applicable)</li></ul><h3>Return / Exchange Process</h3><ul><li>Please contact us at <a><strong>support@zonoa.com</strong></a> within <strong>7 days</strong> of receiving your order.</li><li>Our support team will guide you through the return or exchange process.</li><li>Customers are responsible for <strong>return shipping costs</strong>, unless the product received is damaged or incorrect.</li></ul><h3>Damaged or Incorrect Products</h3><p>If you receive a <strong>damaged, defective, or incorrect item</strong>, please notify us within <strong>48 hours of delivery</strong> with clear photographs. Upon verification, we will arrange a <strong>replacement at no additional cost</strong>.</p>",
-            "width": "100%",
-            "max_width": "none",
-            "alignment": "left",
-            "type_preset": "paragraph",
-            "font": "var(--font-body--family)",
-            "font_size": "1rem",
-            "line_height": "normal",
-            "letter_spacing": "normal",
-            "case": "none",
-            "wrap": "pretty",
-            "text_color": "",
-            "background": false,
-            "background_color": "#00000026",
-            "corner_radius": 0,
-            "padding-block-start": 0,
-            "padding-block-end": 0,
-            "padding-inline-start": 0,
-            "padding-inline-end": 0
-          },
-          "blocks": {}
-        }
-      },
-      "block_order": [
-        "text_RN8DXJ"
-      ],
-      "name": "t:names.pull_quote",
-      "settings": {
-        "content_direction": "column",
-        "vertical_on_mobile": true,
-        "horizontal_alignment": "flex-start",
-        "vertical_alignment": "center",
-        "align_baseline": false,
-        "horizontal_alignment_flex_direction_column": "center",
-        "vertical_alignment_flex_direction_column": "center",
-        "gap": 16,
-        "section_width": "page-width",
-        "section_height": "",
-        "section_height_custom": 50,
-        "background_media": "none",
-        "background_color": "",
-        "video_position": "cover",
-        "background_image_position": "cover",
-        "toggle_overlay": false,
-        "overlay_color": "#00000026",
-        "overlay_style": "solid",
-        "gradient_direction": "to top",
-        "border": "none",
-        "border_width": 1,
-        "border_opacity": 100,
-        "border_color": "",
-        "border_radius": 0,
-        "padding-block-start": 64,
-        "padding-block-end": 64
-      }
     }
   },
   "order": [
     "section_yhV8hz",
-    "section_fJWttF",
-    "section_dPPLEc"
+    "section_fJWttF"
   ]
 }
