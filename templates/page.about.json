@@ -251,17 +251,43 @@
         "padding-block-end": 40
       }
     },
-    "section_HfM7ca": {
-      "type": "section",
+    "marquee_ppzcqk": {
+      "type": "marquee",
       "blocks": {
-        "text_xGRJXP": {
+        "text_3YBH8k": {
           "type": "text",
           "settings": {
-            "text": "<p>At Zonoa, our passion lies in creating modern menswear that fits seamlessly into everyday life. Every shirt and T-shirt is designed with a focus on comfort, clean design, and effortless style—made for men who value simplicity and confidence.<br/></p>",
-            "width": "100%",
-            "max_width": "narrow",
-            "alignment": "center",
-            "type_preset": "h2",
+            "text": "<p><strong>Where Style Meets Everyday Comfort</strong></p>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "custom",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "tight",
+            "letter_spacing": "tight",
+            "case": "none",
+            "wrap": "nowrap",
+            "text_color": "",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "text_KCi7QU": {
+          "type": "text",
+          "name": "t:names.heading",
+          "settings": {
+            "text": "<h2>The Zonoa</h2>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "rte",
             "font": "var(--font-body--family)",
             "font_size": "1rem",
             "line_height": "normal",
@@ -281,42 +307,22 @@
         }
       },
       "block_order": [
-        "text_xGRJXP"
+        "text_3YBH8k",
+        "text_KCi7QU"
       ],
-      "name": "t:names.pull_quote",
+      "name": "t:names.marquee_section",
       "settings": {
-        "content_direction": "column",
-        "vertical_on_mobile": true,
-        "horizontal_alignment": "flex-start",
-        "vertical_alignment": "center",
-        "align_baseline": false,
-        "horizontal_alignment_flex_direction_column": "center",
-        "vertical_alignment_flex_direction_column": "center",
-        "gap": 16,
-        "section_width": "page-width",
-        "section_height": "",
-        "section_height_custom": 50,
-        "background_media": "none",
+        "movement_direction": "normal",
         "background_color": "",
-        "video_position": "cover",
-        "background_image_position": "cover",
-        "toggle_overlay": false,
-        "overlay_color": "#00000026",
-        "overlay_style": "solid",
-        "gradient_direction": "to top",
-        "border": "none",
-        "border_width": 1,
-        "border_opacity": 100,
-        "border_color": "",
-        "border_radius": 0,
-        "padding-block-start": 64,
-        "padding-block-end": 64
+        "padding-block-start": 24,
+        "padding-block-end": 24,
+        "gap_between_elements": 24
       }
     }
   },
   "order": [
     "section_FKgLXF",
     "section_xwDbhU",
-    "section_HfM7ca"
+    "marquee_ppzcqk"
   ]
 }
