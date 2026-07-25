@@ -57,7 +57,7 @@
     "palette_primary_button_background": "#000000",
     "palette_primary_button_text": "#FFD050",
     "palette_primary_button_border": "{{ settings.color_palette.foreground }}",
-    "primary_button_border_width": 1,
+    "primary_button_border_width": 0,
     "button_border_radius_primary": 14,
     "type_font_button_primary": "body",
     "palette_secondary_button_background": "rgba(0,0,0,0)",
