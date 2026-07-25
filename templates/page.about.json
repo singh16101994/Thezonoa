@@ -9,41 +9,6 @@
  */
 {
   "sections": {
-    "main": {
-      "type": "about-us",
-      "blocks": {
-        "value_dFAaTC": {
-          "type": "value",
-          "settings": {
-            "title": "Premium Quality",
-            "text": "Crafted using carefully selected materials."
-          }
-        }
-      },
-      "block_order": [
-        "value_dFAaTC"
-      ],
-      "settings": {
-        "subtitle": "OUR STORY",
-        "heading": "About Zonoa",
-        "description": "At Zonoa, every garment is thoughtfully designed with premium fabrics, timeless aesthetics, and exceptional craftsmanship. Our mission is to create clothing that makes you feel confident every day."
-      }
-    },
-    "animated_text_9CyCkY": {
-      "type": "animated-text",
-      "name": "Animated Text",
-      "settings": {
-        "heading": "About US",
-        "bg_image": "shopify://shop_images/Everyday_Essentials.png",
-        "bg_color": "#1a1915",
-        "overlay_opacity": 45,
-        "text_color": "#ffffff",
-        "glow_color": "#6ef7ff",
-        "font_size": 110,
-        "border_radius": 60,
-        "animation_speed": 4
-      }
-    },
     "section_FKgLXF": {
       "type": "section",
       "blocks": {
@@ -288,8 +253,6 @@
     }
   },
   "order": [
-    "main",
-    "animated_text_9CyCkY",
     "section_FKgLXF",
     "section_xwDbhU"
   ]
