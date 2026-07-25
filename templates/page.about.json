@@ -11,14 +11,286 @@
   "sections": {
     "main": {
       "type": "about-us",
+      "blocks": {
+        "value_dFAaTC": {
+          "type": "value",
+          "settings": {
+            "title": "Premium Quality",
+            "text": "Crafted using carefully selected materials."
+          }
+        }
+      },
+      "block_order": [
+        "value_dFAaTC"
+      ],
       "settings": {
         "subtitle": "OUR STORY",
         "heading": "About Zonoa",
         "description": "At Zonoa, every garment is thoughtfully designed with premium fabrics, timeless aesthetics, and exceptional craftsmanship. Our mission is to create clothing that makes you feel confident every day."
       }
+    },
+    "animated_text_9CyCkY": {
+      "type": "animated-text",
+      "name": "Animated Text",
+      "settings": {
+        "heading": "About US",
+        "bg_image": "shopify://shop_images/Everyday_Essentials.png",
+        "bg_color": "#1a1915",
+        "overlay_opacity": 45,
+        "text_color": "#ffffff",
+        "glow_color": "#6ef7ff",
+        "font_size": 110,
+        "border_radius": 60,
+        "animation_speed": 4
+      }
+    },
+    "section_FKgLXF": {
+      "type": "section",
+      "blocks": {
+        "text_bLDJrk": {
+          "type": "text",
+          "name": "t:names.text",
+          "settings": {
+            "text": "<h3><strong>SOME WORDS ABOUT US</strong></h3><p>Where Style Meets Everyday Comfort</p>",
+            "width": "fit-content",
+            "max_width": "normal",
+            "alignment": "left",
+            "type_preset": "rte",
+            "font": "var(--font-body--family)",
+            "font_size": "1rem",
+            "line_height": "normal",
+            "letter_spacing": "normal",
+            "case": "none",
+            "wrap": "pretty",
+            "text_color": "#FFFFFF",
+            "background": false,
+            "background_color": "#00000026",
+            "corner_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "logo_jXBTpk": {
+          "type": "logo",
+          "settings": {
+            "inverse": false,
+            "font": "heading",
+            "text_color": "#FFFFFF",
+            "unit": "percent",
+            "percent_width": 100,
+            "pixel_height": 48,
+            "custom_mobile_size": false,
+            "unit_mobile": "percent",
+            "percent_width_mobile": 100,
+            "pixel_height_mobile": 120,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "text_bLDJrk",
+        "logo_jXBTpk"
+      ],
+      "name": "t:names.large_logo",
+      "settings": {
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "space-between",
+        "gap": 16,
+        "section_width": "page-width",
+        "section_height": "medium",
+        "section_height_custom": 50,
+        "background_media": "image",
+        "background_color": "",
+        "video_position": "cover",
+        "background_image": "shopify://shop_images/ChatGPT_Image_Jul_23_2026_12_38_25_AM.png",
+        "background_image_position": "cover",
+        "toggle_overlay": true,
+        "overlay_color": "#00000047",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_color": "",
+        "border_radius": 0,
+        "padding-block-start": 40,
+        "padding-block-end": 40
+      }
+    },
+    "section_xwDbhU": {
+      "type": "section",
+      "blocks": {
+        "image_NRPkfY": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Banner1.png",
+            "link": "",
+            "image_ratio": "square",
+            "width": "fill",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 0,
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {}
+        },
+        "group_QQETm9": {
+          "type": "group",
+          "settings": {
+            "content_direction": "column",
+            "vertical_on_mobile": true,
+            "horizontal_alignment": "flex-start",
+            "vertical_alignment": "center",
+            "align_baseline": false,
+            "horizontal_alignment_flex_direction_column": "flex-start",
+            "vertical_alignment_flex_direction_column": "center",
+            "gap": 12,
+            "width": "custom",
+            "custom_width": 100,
+            "width_mobile": "fill",
+            "custom_width_mobile": 100,
+            "height": "fit",
+            "custom_height": 100,
+            "background_media": "none",
+            "background_color": "",
+            "video_position": "cover",
+            "background_image_position": "cover",
+            "toggle_overlay": false,
+            "overlay_color": "#00000026",
+            "overlay_style": "solid",
+            "gradient_direction": "to top",
+            "border": "none",
+            "border_width": 1,
+            "border_opacity": 100,
+            "border_color": "",
+            "border_radius": 0,
+            "link": "",
+            "open_in_new_tab": false,
+            "placeholder": "",
+            "padding-block-start": 0,
+            "padding-block-end": 0,
+            "padding-inline-start": 0,
+            "padding-inline-end": 0
+          },
+          "blocks": {
+            "text_RAzJcT": {
+              "type": "text",
+              "name": "t:names.heading",
+              "settings": {
+                "text": "<p><strong>About Our Online Brand</strong></p>",
+                "width": "fit-content",
+                "max_width": "normal",
+                "alignment": "left",
+                "type_preset": "h3",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            },
+            "text_FEUVjJ": {
+              "type": "text",
+              "settings": {
+                "text": "<p>At <strong>Zonoa</strong>, our online store is more than just a place to shop — it’s where modern men find effortless style for everyday life. We design shirts and T-shirts that balance comfort, quality, and contemporary aesthetics, making dressing well simple and natural.</p><p>Every product at Zonoa is thoughtfully crafted using premium fabrics, refined fits, and attention to detail. From casual essentials to elevated everyday wear, our collections are built to move with you and adapt to your lifestyle.</p><p>Shopping with Zonoa means convenience without compromise — secure payments, reliable shipping across India, and a seamless online experience. We’re here to deliver well-made menswear that feels good, looks sharp, and fits right into your daily routine</p>",
+                "width": "fit-content",
+                "max_width": "narrow",
+                "alignment": "left",
+                "type_preset": "rte",
+                "font": "var(--font-body--family)",
+                "font_size": "1rem",
+                "line_height": "normal",
+                "letter_spacing": "normal",
+                "case": "none",
+                "wrap": "pretty",
+                "text_color": "",
+                "background": false,
+                "background_color": "#00000026",
+                "corner_radius": 0,
+                "padding-block-start": 0,
+                "padding-block-end": 0,
+                "padding-inline-start": 0,
+                "padding-inline-end": 0
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "text_RAzJcT",
+            "text_FEUVjJ"
+          ]
+        }
+      },
+      "block_order": [
+        "image_NRPkfY",
+        "group_QQETm9"
+      ],
+      "name": "t:names.image_with_text",
+      "settings": {
+        "content_direction": "row",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 32,
+        "section_width": "page-width",
+        "section_height": "",
+        "section_height_custom": 50,
+        "background_media": "none",
+        "background_color": "",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_color": "",
+        "border_radius": 0,
+        "padding-block-start": 40,
+        "padding-block-end": 40
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "animated_text_9CyCkY",
+    "section_FKgLXF",
+    "section_xwDbhU"
   ]
 }
