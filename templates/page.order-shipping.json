@@ -10,7 +10,7 @@
 {
   "sections": {
     "main": {
-      "type": "about-us",
+      "type": "order-shipping",
       "settings": {}
     }
   },
