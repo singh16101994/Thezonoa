@@ -318,11 +318,41 @@
         "padding-block-end": 34,
         "gap_between_elements": 24
       }
+    },
+    "about_us_THwA84": {
+      "type": "about-us",
+      "blocks": {
+        "value_bk3EJz": {
+          "type": "value",
+          "settings": {
+            "title": "We love what we do",
+            "text": "At Zonoa, our passion lies in creating modern menswear that fits seamlessly into everyday life. Every shirt and T-shirt is designed with a focus on comfort, clean design, and effortless style—made for men who value simplicity and confidence."
+          }
+        },
+        "value_e6fJ7L": {
+          "type": "value",
+          "settings": {
+            "title": "Our working process",
+            "text": "We work with skilled manufacturers and use carefully selected fabrics to ensure consistent quality and fit. From fabric selection to final finishing, every step is thoughtfully executed so each piece feels comfortable, looks sharp, and lasts beyond trends."
+          }
+        }
+      },
+      "block_order": [
+        "value_bk3EJz",
+        "value_e6fJ7L"
+      ],
+      "name": "About Us",
+      "settings": {
+        "subtitle": "Our working process",
+        "heading": "About Zonoa",
+        "description": "At Zonoa, every garment is thoughtfully designed with premium fabrics, timeless aesthetics, and exceptional craftsmanship. Our mission is to create clothing that makes you feel confident every day."
+      }
     }
   },
   "order": [
     "section_FKgLXF",
     "section_xwDbhU",
-    "marquee_ppzcqk"
+    "marquee_ppzcqk",
+    "about_us_THwA84"
   ]
 }
