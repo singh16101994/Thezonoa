@@ -1,9 +1,23 @@
-<section class="returns-policy">
-  <div class="page-width">
-    <h1>{{ section.settings.heading }}</h1>
-    <p>{{ section.settings.description }}</p>
+<div
+  class="section-background{% if section.settings.background_color != blank %} color-custom-{{ section.id }}{% endif %}"
+></div>
+<div class="section page-width-content{% if section.settings.background_color != blank %} color-custom-{{ section.id }}{% endif %}">
+  <div
+    class="
+      spacing-style
+      layout-panel-flex
+      layout-panel-flex--column
+      section-content-wrapper
+      mobile-column
+    "
+    style="
+      {% render 'layout-panel-style', settings: section.settings %}
+      {% render 'spacing-style', settings: section.settings %}
+    "
+  >
+    {% content_for 'blocks' %}
   </div>
-</section>
+</div>
 
 {% schema %}
 {
