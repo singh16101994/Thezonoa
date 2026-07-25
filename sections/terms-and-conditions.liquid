@@ -1,76 +1,13 @@
-<section class="terms-page page-width">
-  <div class="terms-header">
+<section class="returns-policy">
+  <div class="page-width">
     <h1>{{ section.settings.heading }}</h1>
-    <p>{{ section.settings.subtitle }}</p>
-  </div>
-
-  <div class="terms-content">
-
-    {% for block in section.blocks %}
-      <div class="term-card">
-        <h2>{{ block.settings.title }}</h2>
-        <div class="rte">
-          {{ block.settings.content }}
-        </div>
-      </div>
-    {% endfor %}
-
+    <p>{{ section.settings.description }}</p>
   </div>
 </section>
 
-<style>
-.terms-page{
-  max-width:1000px;
-  margin:0 auto;
-  padding:80px 20px;
-}
-
-.terms-header{
-  text-align:center;
-  margin-bottom:50px;
-}
-
-.terms-header h1{
-  font-size:48px;
-  margin-bottom:12px;
-}
-
-.terms-header p{
-  color:#666;
-  font-size:18px;
-}
-
-.term-card{
-  background:#fff;
-  border:1px solid #e5e5e5;
-  border-radius:16px;
-  padding:32px;
-  margin-bottom:24px;
-}
-
-.term-card h2{
-  margin-bottom:16px;
-  font-size:28px;
-}
-
-.term-card .rte{
-  line-height:1.8;
-}
-
-@media screen and (max-width:768px){
-  .terms-header h1{
-    font-size:34px;
-  }
-
-  .term-card{
-    padding:24px;
-  }
-}
-</style>
-
 {% schema %}
 {
-  "name": "Terms & Conditions",
+  "name": "Terms and Conditions",
   "settings": [
     {
       "type": "text",
@@ -80,45 +17,14 @@
     },
     {
       "type": "textarea",
-      "id": "subtitle",
-      "label": "Subtitle",
-      "default": "Please read these terms carefully before using our website."
-    }
-  ],
-  "blocks": [
-    {
-      "type": "term",
-      "name": "Section",
-      "settings": [
-        {
-          "type": "text",
-          "id": "title",
-          "label": "Section Title",
-          "default": "General"
-        },
-        {
-          "type": "richtext",
-          "id": "content",
-          "label": "Content",
-          "default": "<p>Add your terms here.</p>"
-        }
-      ]
+      "id": "description",
+      "label": "Description",
+      "default": "We want you to love your purchase."
     }
   ],
   "presets": [
     {
-      "name": "Terms & Conditions",
-      "blocks": [
-        {
-          "type": "term"
-        },
-        {
-          "type": "term"
-        },
-        {
-          "type": "term"
-        }
-      ]
+      "name": "Terms and Conditions"
     }
   ]
 }
