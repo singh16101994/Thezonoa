@@ -13,13 +13,13 @@
       "type": "animated-text",
       "name": "Animated Text",
       "settings": {
-        "heading": "thezonoa",
+        "heading": "Return & Exchange",
         "bg_image": "shopify://shop_images/Large_Logo.png",
         "bg_color": "#1a1915",
         "overlay_opacity": 45,
         "text_color": "#ffffff",
         "glow_color": "#6ef7ff",
-        "font_size": 110,
+        "font_size": 48,
         "border_radius": 60,
         "animation_speed": 4
       }
