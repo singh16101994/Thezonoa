@@ -345,7 +345,8 @@
       "settings": {
         "subtitle": "Our working process",
         "heading": "About Zonoa",
-        "description": "At Zonoa, every garment is thoughtfully designed with premium fabrics, timeless aesthetics, and exceptional craftsmanship. Our mission is to create clothing that makes you feel confident every day."
+        "description": "At Zonoa, every garment is thoughtfully designed with premium fabrics, timeless aesthetics, and exceptional craftsmanship. Our mission is to create clothing that makes you feel confident every day.",
+        "image": "shopify://shop_images/t-shirt-store.jpg"
       }
     }
   },
